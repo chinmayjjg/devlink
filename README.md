@@ -28,7 +28,7 @@ DevLink is a backend project built using Node.js, Express, and MongoDB. It allow
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/devlink.git
+git clone https://github.com/chinmayjjg/devlink.git
 cd devlink-backend
 2. Install dependencies
 
